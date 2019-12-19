@@ -1,0 +1,45 @@
+{
+    "name": "Healthfinder.gov",
+    "description": "When making decisions about your health, it\u2019s important to know where to get the most reliable information. At https:\/\/healthfinder.gov and https:\/\/healthfinder.gov\/myhealthfinder we connect you with science-based prevention and wellness information yo...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1068-healthfinder-gov.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "healthcare"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/healthfinder-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Healthfinder.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1068-healthfinder-gov.jpg",
+            "humanURL": "http:\/\/healthfinder.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/healthfinder-gov-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/healthfinder.gov\/Developer\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/healthfinder"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/healthfinder.gov"
+        }
+    ]
+}
